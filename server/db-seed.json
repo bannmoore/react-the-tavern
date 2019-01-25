@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "id": "1",
+      "name": "Azeel",
+      "level": 1,
+      "abilityScores": {
+        "STR": {
+          "base": 10,
+          "temp": 10
+        },
+        "DEX": {
+          "base": 10,
+          "temp": 10
+        },
+        "CON": {
+          "base": 10,
+          "temp": 10
+        },
+        "INT": {
+          "base": 10,
+          "temp": 10
+        },
+        "WIS": {
+          "base": 10,
+          "temp": 10
+        },
+        "CHA": {
+          "base": 10,
+          "temp": 10
+        }
+      }
+    },
+    {
+      "id": "2",
+      "name": "Talon",
+      "level": 5,
+      "abilityScores": {
+        "STR": {
+          "base": 10,
+          "temp": 10
+        },
+        "DEX": {
+          "base": 10,
+          "temp": 10
+        },
+        "CON": {
+          "base": 10,
+          "temp": 10
+        },
+        "INT": {
+          "base": 10,
+          "temp": 10
+        },
+        "WIS": {
+          "base": 10,
+          "temp": 10
+        },
+        "CHA": {
+          "base": 10,
+          "temp": 10
+        }
+      }
+    }
+  ]
+}

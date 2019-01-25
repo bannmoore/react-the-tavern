@@ -1,0 +1,42 @@
+html, body {
+  color: #0d0d0d;
+  font: 16px 'Helvetica Neue', Helvetica, 'Source Sans Pro', Cambria, sans-serif;
+}
+
+main {
+  padding: 20px;
+}
+
+.grid {
+  display: table;
+  border: 1px solid black;
+  border-spacing: 10px;
+}
+
+.row {
+  display: table-row;
+}
+
+.row > * {
+  display: table-cell;
+}
+
+.row--header > * {
+  font-size: .7em;
+  text-align: center;
+}
+
+.label {
+  text-align: center;
+  background-color: black;
+  color: white;
+  width: 65px;
+}
+
+.ability {
+  width: 30px;
+}
+
+.buttons {
+  padding: 20px 0;
+}
